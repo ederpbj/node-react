@@ -11,9 +11,11 @@ create-react-app node-react
 
     "proxy": "http://localhost:5000/"
 
+>Rodar servidor e cliente ao mesmo tempo
+
     npm run dev
 
-//Testes
+>Testes
 
     npm run server
 
